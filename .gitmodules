@@ -1,0 +1,6 @@
+[submodule "sensor_tasking"]
+	path = sensor_tasking
+	url = git@github.com:jmcguigs/sensor_tasking.git
+[submodule "lenoir"]
+	path = lenoir
+	url = git@github.com:jmcguigs/lenoir.git
